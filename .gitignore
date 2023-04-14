@@ -1,5 +1,4 @@
 /data
 /venv
-.idea
-.ipynb_checkpoints
+idea
 .gitignore
